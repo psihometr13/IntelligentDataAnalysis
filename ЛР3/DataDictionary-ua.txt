@@ -1,0 +1,32 @@
+SeriousDlqin2yrs    
+Чи відбудеться відтермінування платежу на 90 або більше днів в найблидчі 2 роки (Y/N)
+
+RevolvingUtilizationOfUnsecuredLines    
+Процент грошей, що залишились на всіх кредитних картах   (%)
+
+age 
+Вік (integer)
+
+NumberOfTime30-59DaysPastDueNotWorse    
+Кількість короткотривалих прострочек платежу (30-59 днів) за останні 2 роки   (integer)
+
+DebtRatio   
+Відсотки від заборгованості за місяць, аліменти, побутові витрати, поділені на дохід а місяць (якщо дохід за місяць невідомий, тоді абсолютна величина виплат)  (%)
+
+MonthlyIncome   
+Дохід за місяць  (real)
+
+NumberOfOpenCreditLinesAndLoans 
+Кількість кредитів (або кредитних карт) за виключанням іпотеки (integer)
+
+NumberOfTimes90DaysLate 
+Кредитна історія: кількість серьйохних прострочек платежу на 90 дній або більше (integer)
+
+NumberRealEstateLoansOrLines    
+Кількість іпотек   (integer)
+
+NumberOfTime60-89DaysPastDueNotWorse    
+Кількість середньотермінових прострочек платежу (60-89 днів) за останні 2 роки (integer)
+
+NumberOfDependents  
+Кількість утриманців в сім'ї, включаюси самого клієнта   (integer)
