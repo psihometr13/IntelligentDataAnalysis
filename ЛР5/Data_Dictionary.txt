@@ -1,0 +1,11 @@
+Survived        Вижило (0 = Нет; 1 = Да)
+Pclass          Клас каюти
+Name            Імя
+Sex             Стать
+Age             Вік
+SibSp           Кількість братів/сестер/подружніх пар на борту
+Parch           Кількість дітей/батьків на борту
+Ticket          Номер білету
+Fare            Вартість билету
+Cabin           Палуба
+Embarked        Порт посадки (C = Cherbourg; Q = Queenstown; S = Southampton)
